@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="6400"
+   height="6400"
+   viewBox="0 0 6400 6400"
+   sodipodi:docname="LevelSvg2.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.089272231"
+     inkscape:cx="1946.166"
+     inkscape:cy="2779.3197"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <image
+     sodipodi:absref="C:\Users\wanne\Desktop\DAE lessons\Semester 2\Programming 2\Labs\1DAE18_06_Van_Hooste_Wannes\VanHooste_Wannes_RealmOfTheMadGod\Resources\Blackwhitemap.png"
+     xlink:href="Blackwhitemap.png"
+     y="0"
+     x="0"
+     id="image18"
+     preserveAspectRatio="none"
+     height="6400"
+     width="6400" />
+  <path
+     style="fill:#000000"
+     d="m 4352,6016 v -64 h 128 v -192 h 352 v 64 h 64 v -64 h 352 v -256 h 64 v -128 h 576 v -64 h 64 v -128 h -64 v -448 h 64 v -128 h -64 v -704 h -128 v -128 h -64 v -384 h 64 v -64 h 448 v -192 h 64 v -128 h -64 v -448 h -256 v -128 h -64 v -512 h -64 v -128 h -64 v -512 h -192 v -128 h -64 V 704 H 5056 V 576 h -64 V 256 h -512 v -64 h -64 v 64 h -192 v 320 h -64 v 64 h -512 v -64 h -64 V 896 H 3136 V 768 h -64 V 384 h -384 v -64 h -64 v 64 h -320 v 128 h -64 V 640 H 1920 V 512 h -64 V 256 h -320 v -64 h -64 v 64 h -384 v 256 h -64 V 640 H 640 v 128 h -64 v 128 h 64 v 512 h 64 v 128 h 64 v 512 H 576 v 128 h 64 v 384 h -64 v 128 h 64 v 128 h 192 v 128 h 64 v 512 h -64 v 128 h -64 v 512 h -64 v 128 h -64 v 384 h -64 v 128 h 64 v 256 h 64 v 64 h 64 v -64 h 192 v 128 h 64 v 384 h -64 v 128 h 384 v 128 h 64 v 128 h 320 v 64 h 64 v -64 h 384 v -128 h 64 v -128 h -64 v -128 h 384 v -128 h 64 v -128 h -64 v -192 h 192 v -64 h 192 v 192 h -64 v 128 h 64 v -64 h 384 v 64 h 64 v -64 h 320 v 320 h -64 v 128 h 64 v 192 h 512 v 64 h 64 v 64 z"
+     id="path3690"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

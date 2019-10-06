@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  Avatar.cpp
+c:\users\wannes\desktop\realmofthemadgod\realmofthemadgod\avatar.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  AvatarBullet.cpp
+  Camera.cpp
+  Core.cpp
+  Enemy.cpp
+  EnemyBullet.cpp
+  Game.cpp
+  HUD.cpp
+  Inventory.cpp
+  LootBag.cpp
+  LootHandler.cpp
+  main.cpp
+  Matrix2x3.cpp
+  MiniMap.cpp
+  Options.cpp
+  PickUp.cpp
+  RayCast.cpp
+  SoundEffect.cpp
+  SoundStream.cpp
+  StartScreen.cpp
+  Generating Code...
+  Compiling...
+  structs.cpp
+  SVGParser.cpp
+  Texture.cpp
+  utils.cpp
+  Vector2f.cpp
+  Vegetation.cpp
+  Generating Code...
+  VanHooste_Wannes_RealmOfTheMadGod.vcxproj -> C:\Users\Wannes\Desktop\RealmOfTheMadGod\RealmOfTheMadGod\Debug\VanHooste_Wannes_RealmOfTheMadGod.exe
